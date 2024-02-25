@@ -4,8 +4,9 @@ import { Form, Button } from "react-bootstrap";
 function BookingForm({ onSubmit }) {
   const [selectedDate, setSelectedDate] = useState(new Date());
   const [numGuests, setNumGuests] = useState(1);
-
+  // eslint-disable-next-line no-unused-vars
   const handleDateChange = (date) => {
+    // Function implementation
     setSelectedDate(date);
   };
 
