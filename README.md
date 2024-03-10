@@ -1,6 +1,40 @@
-##Install
-clone the repo and have dependencies installed.
+# Project Exam 2
 
-npm i
+Exam Assignment with focus on react and bootstrap
 
-npm run start to start locally
+## Description
+
+This is a website where users can register, log in, create and book venues.
+
+## Built With
+
+- HTML
+- CSS
+- Javascript
+- React
+- Bootstrap
+
+## Getting Started
+
+### Installing
+
+Make sure to have Node.js and npm installed.
+
+Clone the repo
+
+Install the dependencies:
+
+npm install
+
+
+### Running
+
+npm run start
+
+
+
+
+## Live Site
+
+https://lively-seahorse-af5c47.netlify.app/
+
